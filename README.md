@@ -1,0 +1,2 @@
+# CTFd_Chinese_Campus
+一个适合部署在校园的汉化版CTFd
